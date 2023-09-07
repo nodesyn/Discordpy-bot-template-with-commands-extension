@@ -6,6 +6,7 @@ bot = commands.Bot(
 	command_prefix="!",  # Change to desired prefix
 	case_insensitive=True  # Commands aren't case-sensitive
 )
+# 
 
 bot.author_id = 487258918465306634  # Change to your discord id!!!
 
